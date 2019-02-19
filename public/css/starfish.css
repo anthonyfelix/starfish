@@ -21,7 +21,7 @@
 	background: #e6c824;
 	height: 120px;
 	z-index: 1000;
-	transform: rotate(-38deg);
+	transform: rotate(38deg);
 	box-shadow: -10px 9px 20px 0px #584242d9;
 	text-align: center;
 	color: white;
