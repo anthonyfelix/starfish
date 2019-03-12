@@ -9,7 +9,7 @@
 	width:43%;
 }
 #faq{
-    background: linear-gradient( rgba(31, 40, 173, 0.5), rgba(0, 63, 204, 0.5) ), url(https://images.pexels.com/photos/414105/pexels-photo-414105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background: linear-gradient( rgba(31, 40, 173, 0.72), rgba(0, 63, 204, 0.76) ), url(https://images.pexels.com/photos/414105/pexels-photo-414105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-position: center;
     background-size: cover;
 }
