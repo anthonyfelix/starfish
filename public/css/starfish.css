@@ -44,8 +44,8 @@
 	    height: 6em;
 	}
 	h1{
-		font-size: 1.5rem;
-    	line-height: 3em;
+		font-size: 1.5rem!important;
+    	line-height: 3em!important;
 	}
 }
 @media only screen and (max-width: 500px){
