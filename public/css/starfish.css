@@ -36,7 +36,10 @@
 
 @media only screen and (max-width: 950px){
 	#sale{
-		display: none;
+	    display: block;
+	    top: 0;
+	    position: initial;
+	    transform: none;
 	}
 }
 @media only screen and (max-width: 500px){
